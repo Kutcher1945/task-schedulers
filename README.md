@@ -27,7 +27,7 @@ Also don't forget to get from mail.ru temporary password
 >EMAIL_USE_TLS = False<br/>
 >EMAIL_USE_SSL = True<br/>
 >EMAIL_HOST = 'smtp.mail.ru'<br/>
->EMAIL_HOST_USER = 'adilan@mail.ru'<br/>
+>EMAIL_HOST_USER = 'adilan@bk.ru'<br/>
 >EMAIL_HOST_PASSWORD = 'cYkRm3zU0BU4Y7iaH1zc'<br/>
 >EMAIL_PORT = 465<br/>
 
